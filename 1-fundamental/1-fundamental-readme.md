@@ -1,0 +1,3 @@
+# Fundamental
+
+## Day 1
